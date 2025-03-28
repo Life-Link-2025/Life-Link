@@ -1,0 +1,2 @@
+NSLocationWhenInUseUsageDescription = "Для LifeLink потрібне ваше місцезнаходження";
+PermissionGroupNotification = "Для LifeLink потрібно ввімкнути сповіщення";

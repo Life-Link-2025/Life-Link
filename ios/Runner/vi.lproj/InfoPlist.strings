@@ -1,0 +1,2 @@
+NSLocationWhenInUseUsageDescription = "LifeLink yêu cầu vị trí của bạn";
+PermissionGroupNotification = "LifeLink yêu cầu bạn phải bật thông báo";

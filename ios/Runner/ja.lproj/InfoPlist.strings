@@ -1,0 +1,2 @@
+NSLocationWhenInUseUsageDescription = "LifeLinkには位置情報が必要です";
+PermissionGroupNotification = "LifeLinkでは通知を有効にする必要があります";

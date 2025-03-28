@@ -1,0 +1,2 @@
+NSLocationWhenInUseUsageDescription = "LifeLink kräver din plats";
+PermissionGroupNotification = "LifeLink kräver att du aktiverar aviseringar";

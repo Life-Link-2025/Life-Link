@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460289257537",
+    "project_id": "global-aid2025-fvwpz1",
+    "storage_bucket": "global-aid2025-fvwpz1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460289257537:android:fff28594e68be39b2c56c0",
+        "android_client_info": {
+          "package_name": "com.mycompany.globalaid2025"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRszfKdzAe0dU-mS_M5FbuhtD1YYt_wWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+NSLocationWhenInUseUsageDescription = "يتطلب LifeLink موقعك";
+PermissionGroupNotification = "يتطلب منك LifeLink تمكين الإشعارات";
