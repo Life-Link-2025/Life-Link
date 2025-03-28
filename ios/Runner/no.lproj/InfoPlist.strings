@@ -1,0 +1,2 @@
+NSLocationWhenInUseUsageDescription = "LifeLink krever din plassering";
+PermissionGroupNotification = "LifeLink krever at du aktiverer varsler";

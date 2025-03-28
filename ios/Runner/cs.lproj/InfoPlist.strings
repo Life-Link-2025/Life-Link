@@ -1,0 +1,2 @@
+NSLocationWhenInUseUsageDescription = "LifeLink vyžaduje vaši polohu";
+PermissionGroupNotification = "LifeLink vyžaduje, abyste povolili oznámení";
