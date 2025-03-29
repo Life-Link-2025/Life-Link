@@ -9,17 +9,17 @@ Life Link is designed to provide a reliable and accessible solution for those in
 
 ## 📜 Repositories
 
-### [Life Link - Web App (Please Visit On a Mobile Device)](https://github.com/YOUR_USERNAME/Life-Link)
+### [Life Link - Web App (Please Visit On a Mobile Device)](https://lifelink2025.flutterflow.app/)
 
 ## 🔗 Links for Judges and Viewers
 
 ### [Video](https://youtu.be/YOUR_VIDEO_LINK)
 
-### [Logbook](https://github.com/YOUR_USERNAME/Life-Link/blob/main/logbook.md)
+### [Logbook](https://github.com/kenuii/Life-Link/blob/main/logbook.md)
 
 ### [Project Report](https://YOUR_PROJECT_REPORT_LINK)
 
-### [References](https://github.com/YOUR_USERNAME/Life-Link/blob/main/bibliography.md)
+### [References](https://github.com/kenuii/Life-Link/blob/main/bibliography.md)
 
 ### [App Mockups](https://www.figma.com/file/YOUR_FIGMA_LINK)
 
