@@ -1,5 +1,7 @@
+![Life Link Logo](https://github.com/kenuii/Life-Link/raw/main/life%20link%20logo%20smaller.jpg)
+
 # What is Life Link?
-Life Link is a mobile application designed to improve the 911 emergency response system. The app aims to address critical issues such as long wait times, inaccurate location tracking, language barriers, and accessibility challenges for marginalized groups, including individuals with disabilities and non-English speakers. 
+Life Link is a mobile application designed to improve the 911 emergency response system. The app aims to address critical issues such as long wait times, inaccurate location tracking, language barriers, and accessibility challenges for marginalized groups, including individuals with disabilities and non-English speakers.
 
 Life Link is built using the Dart programming language and the Flutter framework, ensuring a smooth and responsive user interface across both iOS and Android platforms. To streamline the development process, I utilized FlutterFlow, a low-code platform, which accelerated the app's creation.
 
@@ -28,7 +30,7 @@ Life Link is designed to provide a reliable and accessible solution for those in
 # 🖥️ Our Features
 
 ## 🛰️ Real-Time Location Tracking:
-Life Link provides real-time location tracking to share your exact location with emergency responders. This feature ensures that users' location is accurately identified, even in areas with poor GPS signal, speeding up the response time during emergencies.
+Life Link provides real-time location tracking to share your exact location with emergency responders. This feature ensures that users' location is accurately identified, even in areas with poor GPS coverage, speeding up the response time during emergencies.
 
 ## 🌐 Multilingual Support:
 Life Link includes multilingual support to overcome language barriers, allowing users to communicate with emergency responders in their preferred language. This feature is designed to help non-English speakers, ensuring they can get the help they need when they need it most.
