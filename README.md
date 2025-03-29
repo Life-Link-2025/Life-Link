@@ -1,4 +1,4 @@
-![Life Link Logo](https://github.com/kenuii/Life-Link/raw/main/life%20link%20logo%20smaller.jpg)
+<img src="https://github.com/kenuii/Life-Link/raw/main/life%20link%20logo%20smaller.jpg" width="250"/>
 
 # What is Life Link?
 Life Link is a mobile application designed to improve the 911 emergency response system. The app aims to address critical issues such as long wait times, inaccurate location tracking, language barriers, and accessibility challenges for marginalized groups, including individuals with disabilities and non-English speakers.
