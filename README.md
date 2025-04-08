@@ -13,17 +13,11 @@ Life Link is designed to provide a reliable and accessible solution for those in
 
 ## 🔗 Links for Judges and Viewers
 
-### [Video](https://youtu.be/YOUR_VIDEO_LINK)
+### [Video](https://youtu.be/oEo6aWIaYig)
 
 ### [Logbook](https://github.com/kenuii/Life-Link/blob/main/logbook.md)
 
-### [Project Report](https://YOUR_PROJECT_REPORT_LINK)
-
 ### [References](https://github.com/kenuii/Life-Link/blob/main/bibliography.md)
-
-### [App Mockups](https://www.figma.com/file/YOUR_FIGMA_LINK)
-
-### [Brainstorming](https://www.figma.com/file/YOUR_FIGMA_FEATURE_LINK)
 
 # 🖥️ Our Features
 
